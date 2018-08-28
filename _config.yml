@@ -3,7 +3,7 @@ title: Scott Mackinlay
 email: scottmackinlay@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   This is a test description
-baseurl: "/urban-theme" # the subpath of your site, e.g. /blog
+baseurl: "/portfolio" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 github_username:  scottmackinlay
 

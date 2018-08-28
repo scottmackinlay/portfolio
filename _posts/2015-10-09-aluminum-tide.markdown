@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2015-10-07 15:39:40
-preview: https://unsplash.it/300/300
+title:  "Aluminum Tide"
+date:   2015-10-09 15:39:40
+preview: /portfolio/assets/aluminumTideSmall.jpg
 ---
 
 ![Picture 1](https://unsplash.it/800/600)
