@@ -2,7 +2,7 @@
 layout: post
 title:  "Freelance Design Consultant"
 date:   2015-10-09 15:39:40
-preview: /portfolio/assets/signSmall.jpg
+preview: /assets/signSmall.jpg
 ---
 
 ![Picture 1]({{"/assets/aliceLarge.jpg"|absolute_url}})

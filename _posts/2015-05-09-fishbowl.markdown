@@ -2,7 +2,7 @@
 layout: post
 title:  "Fishbowl"
 date:   2015-10-09 15:39:40
-preview: /portfolio/assets/fishbowlSmall.jpg
+preview: /assets/fishbowlSmall.jpg
 youtubeId: NyoNhuEL3xg
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "Skywave"
 date:   2018-07-07 15:39:40
-preview: /portfolio/assets/skywaveSmall2.png
+preview: /assets/skywaveSmall2.png
 vimeoId: 167780222
 ---
 

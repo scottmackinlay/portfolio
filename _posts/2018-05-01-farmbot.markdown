@@ -2,7 +2,7 @@
 layout: post
 title:  "Farmbot"
 date:   2015-10-09 15:39:40
-preview: /portfolio/assets/farmbotSmall.PNG
+preview: /assets/farmbotSmall.PNG
 ---
 
 ![Picture 1]({{"/assets/farmbotLarge.PNG"|absolute_url}})

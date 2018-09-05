@@ -2,7 +2,7 @@
 layout: post
 title:  "Constructive Interference"
 date:   2018-07-07 15:39:40
-preview: /portfolio/assets/CISmall.png
+preview: /assets/CISmall.png
 vimeoId: 186022053
 youtubeId: DIpXY0yBJwM
 ---

@@ -2,7 +2,7 @@
 layout: post
 title:  "Disko"
 date:   2015-10-09 15:39:40
-preview: /portfolio/assets/diskoSmall.png
+preview: /assets/diskoSmall.png
 ---
 
 ![Picture 1]({{"/assets/diskoLarge.jpg"|absolute_url}})

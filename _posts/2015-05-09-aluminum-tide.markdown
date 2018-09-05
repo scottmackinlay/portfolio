@@ -2,7 +2,7 @@
 layout: post
 title:  "Aluminum Tide"
 date:   2015-10-09 15:39:40
-preview: /portfolio/assets/aluminumTideSmall2.jpg
+preview: /assets/aluminumTideSmall2.jpg
 youtubeId: JOCkq-HixaU
 ---
 

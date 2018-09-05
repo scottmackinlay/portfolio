@@ -2,7 +2,7 @@
 layout: post
 title:  "Polar Printing Press"
 date:   2015-10-09 15:39:40
-preview: /portfolio/assets/ppp.png
+preview: /assets/ppp.png
 ---
 
 ![Picture 1]({{"/assets/polarPrinting.gif"|absolute_url}})

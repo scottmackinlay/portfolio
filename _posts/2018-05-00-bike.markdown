@@ -2,7 +2,7 @@
 layout: post
 title:  "Bike"
 date:   2015-10-09 15:39:40
-preview: /portfolio/assets/bikeSmall.png
+preview: /assets/bikeSmall.png
 ---
 
 ![Picture 1]({{"/assets/bikeLarge.jpg"|absolute_url}})

@@ -2,7 +2,7 @@
 layout: post
 title:  "Slow Screen"
 date:   2015-10-09 15:39:40
-preview: /portfolio/assets/slowScreenSmall.jpg
+preview: /assets/slowScreenSmall.jpg
 youtubeId: t1mdSVDZvLI
 
 ---

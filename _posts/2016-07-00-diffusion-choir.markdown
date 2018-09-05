@@ -2,7 +2,7 @@
 layout: post
 title:  "Diffusion Choir"
 date:   2018-07-07 15:39:40
-preview: /portfolio/assets/diffusionChoirSmall2.png
+preview: /assets/diffusionChoirSmall2.png
 vimeoId: 187037469
 ---
 

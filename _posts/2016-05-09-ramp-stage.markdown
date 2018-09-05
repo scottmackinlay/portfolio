@@ -2,7 +2,7 @@
 layout: post
 title:  "Ramp Stage"
 date:   2015-10-09 15:39:40
-preview: /portfolio/assets/rampStageSmall.png
+preview: /assets/rampStageSmall.png
 vimeoId: 235858755
 ---
 

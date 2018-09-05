@@ -2,7 +2,7 @@
 layout: post
 title:  "Spinny Clock"
 date:   2015-10-09 15:39:40
-preview: /portfolio/assets/spinnyClockSmall.png
+preview: /assets/spinnyClockSmall.png
 ---
 
 ![Picture 1]({{"/assets/spinnyClock.gif"|absolute_url}})

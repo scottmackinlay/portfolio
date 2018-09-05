@@ -2,7 +2,7 @@
 layout: post
 title:  "IOT Stormwater Sensor"
 date:   2015-10-09 15:39:40
-preview: /portfolio/assets/nautilusSmall.jpg
+preview: /assets/nautilusSmall.jpg
 ---
 
 ![Picture 1]({{"/assets/IOTSensorLarge.jpg"|absolute_url}})

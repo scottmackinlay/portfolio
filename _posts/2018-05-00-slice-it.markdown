@@ -2,7 +2,7 @@
 layout: post
 title:  "Slice It"
 date:   2015-10-09 15:39:40
-preview: /portfolio/assets/sliceItSmall.png
+preview: /assets/sliceItSmall.png
 ---
 
 ![Picture 1]({{"/assets/sliceItLarge.PNG"|absolute_url}})
