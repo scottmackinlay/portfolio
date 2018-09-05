@@ -2,11 +2,12 @@
 title: Scott Mackinlay
 email: scottmackinlay@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  This is a test description
+  I love making things. This site is a collection of a few of my favorite projects over the past five years. 
 baseurl: "/portfolio" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 github_username:  scottmackinlay
+linkedin_username: LinkedIn
 
 # Build settings
 markdown: kramdown
-permalink: pretty
+permalink: none

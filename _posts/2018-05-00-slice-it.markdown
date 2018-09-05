@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Slice It"
+date:   2015-10-09 15:39:40
+preview: /portfolio/assets/sliceItSmall.png
+---
+
+![Picture 1]({{"/assets/sliceItLarge.png"|absolute_url}})
+
+For a senior capstone project at Olin College, I worked on a team of five as __consultants for Dassault Systemes and SOLIDWORKS__. Specifically, we worked with a special suite of tools called [Apps for Kids](http://www.swappsforkids.com/) which are designed to help young makers turn their creative ideas into reality. The flagship app, Shape It, has an intuitive interface that allows kids to easily design virtual models. However, how do kids make these models real if they dont have a 3d-printer? Enter Slice It. __We designed a tool that slices models into interlocking flat pieces__ that can be cut out with a simple pair of scissors. 
+
+This project posed a unique design challenge because unlike the complex computer aided design interfaces that I've come to love as a mechanical engineer, we had to create an application that had a few and as simple options as possible. All those settings had to be built into the software so that it could make design decisions on its own without user input. 
+
+My role on this projects was multifaceted:
+- I learned how to write JavaScript with a specific emphasis on __three.js__ for rendering 3d models
+- As a team, we conducted many __user tests__ with kids in order to identify pain points and test our assumptions
+- I lead the __physical prototyping__ aspect of this project with many hours spent laser cutting whacky paper shapes
+
+![Picture 1]({{"/assets/laserMoose.jpg"|absolute_url}})

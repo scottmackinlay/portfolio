@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Skywave"
+date:   2018-07-07 15:39:40
+preview: /portfolio/assets/skywaveSmall2.png
+vimeoId: 167780222
+---
+
+{% include vimeoPlayer.html id=page.vimeoId %}
+
+Cruise ships are so large and immersive that sometimes people can forget that they are on the water. This piece, Skywave, is a reminder of the aquatic beauty that is beneath the surface. Skywave is comprised of 99 petals which were hand moulded from foam. For maintenance, replacement petals were required. Because making two extra sets by hand would have taken hundreds of man-hours, __I built and operated a CNC-router__ that cut out 300 petals over the course of a few days instead.
+
+![Picture 1]({{"/assets/petals.jpg"|absolute_url}})
+
+In addition to the actual fabrication, I compiled a comprehensive guide to help bring anyone up to speed on how to use the router in the future. This included known bugs, tips and tricks, and special incantations to recite if the machine became possessed (a surprisingly common phenomenon with machines these days).

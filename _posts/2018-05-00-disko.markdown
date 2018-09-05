@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "Disko"
+date:   2015-10-09 15:39:40
+preview: /portfolio/assets/diskoSmall.png
+---
+
+![Picture 1]({{"/assets/diskoLarge.jpg"|absolute_url}})
+
+I am a passionate [musician and DJ](https://soundcloud.com/scottmackinlay/dj-project-week-two), so when my mechatronics class tasked me with making a __rotary haptic response device__, I immediately knew that I wanted to make a haptic turn table. Unlike the vinyl turntables of old, this device was modeled after the form factor of modern CDJ's. 
+
+The focus of this project was to:
+- Lean to write and embed C for a __PIC microcontroller__
+- Implement control schemes that create various __haptic responses like virtual springs/dampers__.
+- Design a robust and gorgeous __physical prototype__
+
+### Final Report Part One:
+
+<iframe src="https://drive.google.com/file/d/1hmbdRVoyqzojmbdO56lJgB235d1xoBpE/preview" width="80%" height="800"></iframe>
+
+### Final Report Part Two:
+
+<iframe src="https://drive.google.com/file/d/1ZQCFm2qG8dFCZwvfehupCwT392N2s0ub/preview" width="80%" height="800"></iframe>
+
+
+
