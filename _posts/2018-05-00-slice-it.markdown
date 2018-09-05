@@ -5,7 +5,7 @@ date:   2015-10-09 15:39:40
 preview: /portfolio/assets/sliceItSmall.png
 ---
 
-![Picture 1]({{"/assets/sliceItLarge.png"|absolute_url}})
+![Picture 1]({{"/assets/sliceItLarge.PNG"|absolute_url}})
 
 For a senior capstone project at Olin College, I worked on a team of five as __consultants for Dassault Systemes and SOLIDWORKS__. Specifically, we worked with a special suite of tools called [Apps for Kids](http://www.swappsforkids.com/) which are designed to help young makers turn their creative ideas into reality. The flagship app, Shape It, has an intuitive interface that allows kids to easily design virtual models. However, how do kids make these models real if they dont have a 3d-printer? Enter Slice It. __We designed a tool that slices models into interlocking flat pieces__ that can be cut out with a simple pair of scissors. 
 

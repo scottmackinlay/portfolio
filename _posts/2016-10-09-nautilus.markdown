@@ -13,12 +13,12 @@ The Charles River that runs right through Boston is disgusting. There are many c
 
 The first step to solving this problem is finding and repairing the parts of this system that need it most, but locating regions of sewage infiltration is cost prohibitive. That is until now. Enter Nautilus. 
 
-![Picture 1]({{"/assets/nautilusHero.png"|absolute_url}})
+![Picture 1]({{"/assets/nautilusHero.PNG"|absolute_url}})
 
 __Nautilus is a sensor that is designed to be released into storm water systems and measure temperature.__ Sewage infiltration leaves a distinctive thermal signature on the otherwise much cooler storm water runoff, and this spike in temperature can be measured by Nautilus. Designed to be deployed en masse, this mobile network of "release and catch" sensors can map out an entire city's stormwater system at a fraction of the cost of alternative methods of infiltration detection. 
 
 In addition to the above looks-like, we also created a fully functional works-like prototype:
 
-![Picture 1]({{"/assets/nautilusWorksLike.png"|absolute_url}})
+![Picture 1]({{"/assets/nautilusWorksLike.PNG"|absolute_url}})
 
 Our full process book, including the story of how our team came up with this idea, can be read [here](https://drive.google.com/file/d/1u7KOavjqgKe7smq17eCv-wDNoTj5BZV-/view?usp=sharing)

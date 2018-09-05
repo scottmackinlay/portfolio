@@ -9,7 +9,7 @@ preview: /portfolio/assets/bikeSmall.png
 
 During my last three months of college, I built a bike. Starting off by learning the intricacies of sizing and refining bike geometry in [OnShape](https://cad.onshape.com/documents/6afd9109843e2963423853ec/w/bd0d625c6e67c8762b4695a9/e/fd534489982f63e20685585b), I mastered brazing and tube-notching so that I could turn a box of steel tubes into a bike frame:
 
-![Picture 1]({{"/assets/bikeFrame.jpg"|absolute_url}})
+![Picture 1]({{"/assets/bikeFrame.JPG"|absolute_url}})
 
 Next, I rode my existing $40 craigslist bike all over Boston to pick up discount components to build out my touring bike. The paniers were hand-me-downs from my father who toured throughout Europe when he was my age.
 

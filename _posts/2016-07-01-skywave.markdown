@@ -13,3 +13,5 @@ Cruise ships are so large and immersive that sometimes people can forget that th
 ![Picture 1]({{"/assets/petals.jpg"|absolute_url}})
 
 In addition to the actual fabrication, I compiled a comprehensive guide to help bring anyone up to speed on how to use the router in the future. This included known bugs, tips and tricks, and special incantations to recite if the machine became possessed (a surprisingly common phenomenon with machines these days).
+
+![Picture 1]({{"/assets/skywaveLarge.jpeg"|absolute_url}})

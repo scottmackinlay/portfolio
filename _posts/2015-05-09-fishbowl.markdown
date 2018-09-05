@@ -10,7 +10,7 @@ youtubeId: NyoNhuEL3xg
 
 The challenge of this piece is to recreate the __unpredictable natural motion__ of a fish in a bowl using the constant rotation of a single motor. Our team acheived this by using two sets of pulleys with slightly different prime gear ratios. Exploring the possible space of motions was an exciting investigation that lead us to the some options for the top-down view of the fish's motion:
 
-![Picture 1]({{"/assets/fishbowlPatterns.png"|absolute_url}})
+![Picture 1]({{"/assets/fishbowlPatterns.PNG"|absolute_url}})
 
 Once we were satisfied with the mathematically simulated motion of the fish, we rapidly prototyped out piece using 3d printers, cast resin, CNC-routed plywood, and plenty of spraypaint.
 

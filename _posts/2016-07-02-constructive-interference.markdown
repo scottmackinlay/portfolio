@@ -17,6 +17,8 @@ Next, __I interfaced with steel fabricators to create optimal cutsheets of the p
 
 The installation process of this piece was an epic two weeks of little sleep and intense fun. Our small team of four put up a gigantic dust sheild all around our work site (complete with fans to maintain negative pressure). Next, we assembled the steel puzzle pieces and welded them together so that we could treat the metal for the corroded patina. After the wall was modified, stenciled, and painted, the steel was hung and the piece was complete. Read more about the art and process [here](http://www.hypersonic.cc/projects/constructive-interference)
 
+![Picture]({{"/assets/constructiveInterferenceLarge.jpg"|absolute_url}})
+
 Below, you can pan around a 360 video of the full installation process.
 
 {% include youtubePlayer.html id=page.youtubeId %}
