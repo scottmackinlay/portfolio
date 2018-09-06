@@ -9,7 +9,7 @@ preview: /assets/ppp.png
 
 At the intersection of __mechanical, computer, and electrical engineering__ is this our new spin on printing. Instead of the lame cartesian printers that dominate %99.99 of the market, we opted for the challenge of creating a poster printer that could operate in polar coordinates.
 
-The major learning that occured on this project included:
+The major learning that occurred on this project included:
 - __Ideating__ innovative and creative projects
 - Constant __integration__ of substantial electrical, computer, and mechanical sub-components
 - Designing on a __$200 budget__

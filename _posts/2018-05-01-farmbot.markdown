@@ -7,7 +7,7 @@ preview: /assets/farmbotSmall.PNG
 
 ![Picture 1]({{"/assets/farmbotLarge.PNG"|absolute_url}})
 
-The final project for Mechanical Design was to create a novel design for the quickly growing "farmbot" movement where techniques of multicropping and natural soil replenishment can be efficiently realized through the patience, persistence, and accuracy of robots. Focusing on communicating ideas through computer aided design, we were challenged to prove the viability of a project without physically making anything. This exercise helped __flex designing, writing, rendering, and presentation skills__ through a set of four design reviews and intermediate project reports. The final robot pictured above is described in detail in our [final report](https://drive.google.com/file/d/1uJRE2cxK2J5_ld32q141gdBW_9wBD4q4/view).
+The final project for Mechanical Design was to create a novel design for the quickly growing "farmbot" movement where techniques of multi-cropping and natural soil replenishment can be efficiently realized through the patience, persistence, and accuracy of robots. Focusing on communicating ideas through computer aided design, we were challenged to prove the viability of a project without physically making anything. This exercise helped __flex designing, writing, rendering, and presentation skills__ through a set of four design reviews and intermediate project reports. The final robot pictured above is described in detail in our [final report](https://drive.google.com/file/d/1uJRE2cxK2J5_ld32q141gdBW_9wBD4q4/view).
 
 Just like many of my other projects, the iterative steps to the final project can be just as interesting as the final design. Below are reports that include renders of some preliminary designs to explore the space of various tools.
 

@@ -8,7 +8,7 @@ vimeoId: 167780222
 
 {% include vimeoPlayer.html id=page.vimeoId %}
 
-Cruise ships are so large and immersive that sometimes people can forget that they are on the water. This piece, Skywave, is a reminder of the aquatic beauty that is beneath the surface. Skywave is comprised of 99 petals which were hand moulded from foam. For maintenance, replacement petals were required. Because making two extra sets by hand would have taken hundreds of man-hours, __I built and operated a CNC-router__ that cut out 300 petals over the course of a few days instead.
+Cruise ships are so large and immersive that sometimes people can forget that they are on the water. This piece, Skywave, is a reminder of the aquatic beauty that is beneath the surface. Skywave is comprised of 99 petals which were hand molded from foam. For maintenance, replacement petals were required. Because making two extra sets by hand would have taken hundreds of man-hours, __I built and operated a CNC-router__ that cut out 300 petals over the course of a few days instead.
 
 ![Picture 1]({{"/assets/petals.jpg"|absolute_url}})
 

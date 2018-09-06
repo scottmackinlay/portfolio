@@ -7,7 +7,7 @@ preview: /assets/boxSmall.JPG
 
 ![Picture 1]({{"/assets/boxLarge.jpg"|absolute_url}})
 
-Over the years, I’ve picked up a bit of music production gear, so to hold/transport it all, I fabricated an enclosure. Using CNC-routed “Hammerhead” joinery and inline butterfly clasps, I made the perfect container. The interior foam has the profile of my equiptment cut into it to ensure a snug fit.
+Over the years, I’ve picked up a bit of music production gear, so to hold/transport it all, I fabricated an enclosure. Using CNC-routed “Hammerhead” joinery and in-line butterfly clasps, I made the perfect container. The interior foam has the profile of my equipment cut into it to ensure a snug fit.
 
 This piece showcases my self-driven attention to detail and my fabrication ability. 
 
