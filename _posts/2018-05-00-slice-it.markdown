@@ -17,3 +17,5 @@ My role on this projects was multifaceted:
 - I lead the __physical prototyping__ aspect of this project with many hours spent laser cutting whacky paper shapes
 
 ![Picture 1]({{"/assets/laserMoose.jpg"|absolute_url}})
+
+My team included Zarin Bhuiyan, Hieu Nguyen, Hannah Twigg-Smith, and Bill Wong.
