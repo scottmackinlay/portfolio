@@ -28,3 +28,5 @@ The technical problem of discovering driving frequencies wasn't the only thing t
 ![Picture]({{"/assets/slowScreenProto2.gif"|absolute_url}})
 
 A huge shout-out to my two other team members, Ezra Johnson and Max Schommer; and to Chris Lee the professor and friend who believed in us when the other faculty called us crazy for undertaking such an ambitious project.
+
+[Check out our code!](https://github.com/maxschommer/QED-Springs)
