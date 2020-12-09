@@ -1,0 +1,41 @@
+---
+layout: post
+title:  "Agtech Robotics"
+date:   2019-01-02 15:39:40
+preview: /assets/lonoSmall.png
+---
+
+![Picture 1]({{"/assets/lettuceInTray.JPG"|absolute_url}})
+
+What does the future of food look like? I got the chance to work with a startup who thinks they have a piece of the puzzle: rethinking vertical farming. Because of the intellectual property involved with this project, you're going to notice a distinct vagueness to this project. If you have questions, shoot me an email and let's talk!
+
+What I'm cleared to talk about are the pieces of this system that I worked on with deliberate obfuscation of complete context. Here's the gist of what I was working on:
+
+![Picture 1]({{"/assets/lonoArchitecture.png"|absolute_url}})
+
+Handling plants is a delicate matter. I was in charge of the interface between robot and plant. Let's start by talking about the way the watering robot can retrieve a tray of plants so that they can be watered/fertilized. 
+
+![Picture 1]({{"/assets/lonoLoading.gif"|absolute_url}})
+
+That tray was designed by yours truly with specific attention given towards those sliding interfaces. In fact, I came in on a few weekends to teach myself how to program the robot that grabs those trays (implementing the python SDK). That way, I could bring a tray in and out a hundred times and determine where it was likely to fail first. My leadership on this front made me the goto for running future routines on the tray retrieval robot. 
+
+Anyone who has worked with robots at this size can tell you about exciting failure modes, and I'm going to follow that pattern. When a failed homing routine resulted in the robot losing conception of its location, it snaged an unexpected tray and bent the aluminum extrusion like a paperclip before tripping overcurrent protection and grinding to a halt. To prevent this from happening again, I designed a custom break-away end effector:
+
+[insert pic of end effector]
+
+[maye a sketch?]
+
+The pull-away resistance of this end effector was carefully dialed in by adjusting the angle of engagement with the complimentary retention geometry. 
+
+In addition to tray/robot interface design, I also worked to ensure that the robot could consistently administer appropriate water/fertilizer.
+
+![Picture 1]({{"/assets/needleTest.gif"|absolute_url}})
+
+<!-- ![Picture 1]({{"/assets/lonoTray.png"|absolute_url}})
+ -->
+![Picture 1]({{"/assets/lonoTeam.JPG"|absolute_url}})
+
+![Picture 1]({{"/assets/lonoDowntown.jpg"|absolute_url}})
+
+Here you see Chase and I navigating downtown Seattle with backpacks full of components destined for an external testing facility. We looked weird on the lightrail. 
+

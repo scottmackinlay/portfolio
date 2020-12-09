@@ -7,6 +7,15 @@ preview: /assets/nautilusSmall.jpg
 
 ![Picture 1]({{"/assets/IOTSensorLarge.jpg"|absolute_url}})
 
+![Picture 1]({{"/assets/nautProto.png"|absolute_url}})
+
+![Picture 1]({{"/assets/nautMontage.png"|absolute_url}})
+
+![Picture 1]({{"/assets/nautilusInteractionMap.jpg"|absolute_url}})
+
+![Picture 1]({{"/assets/nautRadio.png"|absolute_url}})
+
+
 Integrated Product Design was a course to use design and engineering to solve a meaningful problem. I worked on an __interdisciplinary team of business students, industrial designers, and engineers__ to develop a viable product. This is our story:
 
 The Charles River that runs right through Boston is disgusting. There are many causes like agricultural runoff and illegal dumping, but there is a far more pernicious effect at play: __Boston's aging infrastructure is beginning to leak__. As is happening along throughout New England, old sewage and storm water systems are reaching the ends of their expected lifespans and quietly disintegrating below the blissfully unaware inhabitants. When sewage gets into storm water runoff systems, it gets into rivers, lakes, and the ocean and poses a serious health risk.

@@ -12,6 +12,12 @@ __My team designed and prototyped the stage in the above video__
 
 Alice Sheppard is a wheelchair dancer and she came to Olin with an unusual challenge. Could we make her a stage that would enable her to showcase the unique beauty of wheelchair dancing. Also, could we do it __in three weeks__?
 
+![Picture 1]({{"/assets/rampFab1.png"|absolute_url}})
+
+![Picture 1]({{"/assets/rampFab2.png"|absolute_url}})
+
+![Picture 1]({{"/assets/rampFab3.png"|absolute_url}})
+
 We quickly learned as much as we could from interviewing Alice and conducting codesigns to explore her vision of the ideal stage. Next, we physically prototyped ramps in order to get her feedback on key parameters like slope, friction, length, and awesomeness. After __many rounds of prototypes__ (and a few all-nighters), we ultimately arrived at a stage that looks like this:
 
 ![Picture 1]({{"/assets/rampLarge.jpg"|absolute_url}})

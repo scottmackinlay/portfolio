@@ -15,6 +15,10 @@ Next, __I interfaced with steel fabricators to create optimal cut-sheets of the 
 
 ![Picture]({{"/assets/cutsheetsOSU.jpg"|absolute_url}})
 
+![Picture]({{"/assets/constIntFlat.jpg"|absolute_url}})
+
+![Picture]({{"/assets/constIntMask.jpg"|absolute_url}})
+
 The installation process of this piece was an epic two weeks of little sleep and intense fun. Our small team of four put up a gigantic dust shield all around our work site (complete with fans to maintain negative pressure). Next, we assembled the steel puzzle pieces and welded them together so that we could treat the metal for the corroded patina. After the wall was modified, stenciled, and painted, the steel was hung and the piece was complete. Read more about the art and process [here](http://www.hypersonic.cc/projects/constructive-interference)
 
 ![Picture]({{"/assets/constructiveInterferenceLarge.jpg"|absolute_url}})

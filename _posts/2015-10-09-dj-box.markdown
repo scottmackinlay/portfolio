@@ -12,3 +12,5 @@ Over the years, I’ve picked up a bit of music production gear, so to hold/tran
 This piece showcases my self-driven attention to detail and my fabrication ability. 
 
 ![Picture 1]({{"/assets/boxInterior.jpg"|absolute_url}})
+
+![Picture 1]({{"/assets/djBooth.jpg"|absolute_url}})

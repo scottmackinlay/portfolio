@@ -19,3 +19,7 @@ If you need a life-sized Alice (in wonderland) falling down your spiral staircas
 What if you want a doorway in your house to look like a keyhole? I can do that too. On the left is a digital render of what my client and I agreed would meet the design constraints, and on the right is the delivered product.
 
 ![Picture 1]({{"/assets/keyhole.PNG"|absolute_url}})
+
+![Picture 1]({{"/assets/krashRack.jpg"|absolute_url}})
+
+![Picture 1]({{"/assets/krashSketch.jpg"|absolute_url}})
