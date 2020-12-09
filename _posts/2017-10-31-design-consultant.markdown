@@ -20,6 +20,8 @@ What if you want a doorway in your house to look like a keyhole? I can do that t
 
 ![Picture 1]({{"/assets/keyhole.PNG"|absolute_url}})
 
+How bout a custom laser-cut aluminum rack for your adventure car? I took this project from sketch to roof rack by taking the client along on through the design process to ensure we both created something we were proud of. 
+
 ![Picture 1]({{"/assets/krashRack.jpg"|absolute_url}})
 
 ![Picture 1]({{"/assets/krashSketch.jpg"|absolute_url}})

@@ -14,7 +14,7 @@ This project posed a unique design challenge because unlike the complex computer
 My role on this projects was multifaceted:
 - I learned how to write JavaScript with a specific emphasis on __three.js__ for rendering 3d models
 - As a team, we conducted many __user tests__ with kids in order to identify pain points and test our assumptions
-- I lead the __physical prototyping__ aspect of this project with many hours spent laser cutting whacky paper shapes
+- I lead the __physical prototyping__ aspect of this project with many hours spent laser cutting wacky paper shapes
 
 ![Picture 1]({{"/assets/laserMoose.jpg"|absolute_url}})
 

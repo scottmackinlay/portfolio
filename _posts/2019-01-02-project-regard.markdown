@@ -23,7 +23,7 @@ Here is what the system looked like after a few rounds of prototyping:
 
 Unfortunately, the flexural transmission was failing to fatigue after a new thousand cycles. In order to improve performance, I reached out to experts and talked about all sorts of solutions:
 * Changing material (1080, 1095, berylium copper, nytinol, etc)
-* Custom heat treating to revieve stress in work hardened region
+* Custom heat treating to relieve stress in work hardened region
 * Adapting the geometry to reduce stress risers
 
 Ultimately, the solution involved a little of all three. I swapped out the rod spring for a coil configuration which was heavier, but could survive cycle counts well into the millions. 

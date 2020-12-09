@@ -19,15 +19,22 @@ Handling plants is a delicate matter. I was in charge of the interface between r
 
 That tray was designed by yours truly with specific attention given towards those sliding interfaces. In fact, I came in on a few weekends to teach myself how to program the robot that grabs those trays (implementing the python SDK). That way, I could bring a tray in and out a hundred times and determine where it was likely to fail first. My leadership on this front made me the goto for running future routines on the tray retrieval robot. 
 
-Anyone who has worked with robots at this size can tell you about exciting failure modes, and I'm going to follow that pattern. When a failed homing routine resulted in the robot losing conception of its location, it snaged an unexpected tray and bent the aluminum extrusion like a paperclip before tripping overcurrent protection and grinding to a halt. To prevent this from happening again, I designed a custom break-away end effector:
+Anyone who has worked with robots at this size can tell you about exciting failure modes, and I'm going to follow that pattern. When a failed homing routine resulted in the robot losing conception of its location, it snagged an unexpected tray and bent the aluminum extrusion like a paper clip before tripping over-current protection and grinding to a halt. To prevent this from happening again, I designed a custom break-away end effector:
 
-[insert pic of end effector]
-
-[maye a sketch?]
+![Picture 1]({{"/assets/lonoEEDiagram.png"|absolute_url}})
 
 The pull-away resistance of this end effector was carefully dialed in by adjusting the angle of engagement with the complimentary retention geometry. 
 
-In addition to tray/robot interface design, I also worked to ensure that the robot could consistently administer appropriate water/fertilizer.
+![Picture 1]({{"/assets/lonoRetention.png"|absolute_url}})
+
+Parts designed in SOLIDWORKS, CAM generated in HSMWorks, and machining performed by me on the CNC mill (Tormach). 
+
+![Picture 1]({{"/assets/lonoEEHero.png"|absolute_url}})
+
+![Picture 1]({{"/assets/lonoEEside.png"|absolute_url}})
+
+
+In addition to tray/robot interface design, I also worked to ensure that the robot could consistently administer appropriate water/fertilizer. Here you can see a testing apparatus that I designed with an Arduino, relay shield, and a pneumatic cylinder. The test was to determine the optimal needle characteristics to prevent clogging. 
 
 ![Picture 1]({{"/assets/needleTest.gif"|absolute_url}})
 

@@ -18,7 +18,7 @@ Alice Sheppard is a wheelchair dancer and she came to Olin with an unusual chall
 
 ![Picture 1]({{"/assets/rampFab3.png"|absolute_url}})
 
-We quickly learned as much as we could from interviewing Alice and conducting codesigns to explore her vision of the ideal stage. Next, we physically prototyped ramps in order to get her feedback on key parameters like slope, friction, length, and awesomeness. After __many rounds of prototypes__ (and a few all-nighters), we ultimately arrived at a stage that looks like this:
+We quickly learned as much as we could from interviewing Alice and conducting co-designs to explore her vision of the ideal stage. Next, we physically prototyped ramps in order to get her feedback on key parameters like slope, friction, length, and awesomeness. After __many rounds of prototypes__ (and a few all-nighters), we ultimately arrived at a stage that looks like this:
 
 ![Picture 1]({{"/assets/rampLarge.jpg"|absolute_url}})
 
